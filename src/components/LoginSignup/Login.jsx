@@ -134,7 +134,7 @@ const Login = () => {
         <div className="text-center mt-4">
           <p>
             Continue as Doctor?{" "}
-            <a href="https://doctor-booking-appointment-bsgv.vercel.app/">
+            <a href="https://mediconnect-doctor-tan.vercel.app/">
               <button className="text-blue-600 hover:underline">Log in</button>
             </a>{" "}
           </p>
@@ -143,7 +143,7 @@ const Login = () => {
         <div className="text-center mt-4">
           <p>
             Continue as Admin?{" "}
-            <a href="https://doctor-booking-appointment-fd5x.vercel.app/">
+            <a href="https://mediconnect-admin-two.vercel.app">
               <button className="text-blue-600 hover:underline">Log in</button>
             </a>{" "}
           </p>
